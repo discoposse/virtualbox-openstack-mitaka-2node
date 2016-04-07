@@ -11,4 +11,5 @@ sudo apt-get update && sudo apt-get upgrade -y
 sudo apt-get install -y git vim openssh-server software-properties-common python-pip 
 sudo add-apt-repository cloud-archive:mitaka
 sudo apt-get update
+sudo apt-get update && apt-get dist-ugrade -y
 sudo reboot
